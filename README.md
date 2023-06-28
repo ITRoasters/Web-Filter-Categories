@@ -4,3 +4,6 @@ This repository consolidates several reputable files, and merges them into a uni
 # List of all Categories
 
 This repository offers 30 different web categories based on the data they are hosting.
+
+| Category Name | Link | Description |
+| ---------------- | :-------: | :-------: |
