@@ -46,5 +46,4 @@ This repository offers 30 different web categories based on the data they are ho
 
 | Category Name | Link | Description |
 | ------------- | :--: | ----------- |
-
 | adult | [Link] | Some adult site from erotic to hard pornography. | 
