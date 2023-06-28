@@ -47,6 +47,7 @@ This repository offers 30 different web categories based on the data they are ho
 | Category Name | Link | Description |
 | ------------- | :--: | ----------- |
 | adult | [Link] | Some adult site from erotic to hard pornography. |
+| adware | [Link] | Some Adware sites. |
 | agressif | [Link] | Some aggressive sites. |
 | arjel | [Link] | ARJEL which is a french certification authority for gambling sites |
 | associations_religieuses | [Link] | religious_association |
@@ -106,5 +107,4 @@ This repository offers 30 different web categories based on the data they are ho
 | vpn | [Link] | VPN site |
 | warez | [Link] | Warez sites. |
 | webmail | [Link] | Webmail sites (hotmail like...) |
-![image](https://github.com/ITRoasters/Web-Filter-Categories/assets/137977039/ca7ac4ee-f478-4b35-94a4-23c1d7a0dee5)
 
