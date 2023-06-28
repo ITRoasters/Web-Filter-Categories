@@ -47,7 +47,7 @@ This repository offers 30 different web categories based on the data they are ho
 | Category Name | Link | Description |
 | ---------------- | :-------: | ------- |
 
-adult|[Link]|Some adult site from erotic to hard pornography.
+adult | [Link] | Some adult site from erotic to hard pornography.
 agressif|[Link]|Some aggressive sites.
 arjel|[Link]|ARJEL which is a french certification authority for gambling sites
 associations_religieuses|[Link]|religious_association
