@@ -45,7 +45,7 @@ Unbound is a more advanced opensource DNS filtering server. It is not as easy to
 This repository offers 30 different web categories based on the data they are hosting.
 
 | Category Name | Link | Description |
-| ---------------- | :-------: | :-------: |
+| ---------------- | :-------: | ------- |
 
 adult|[Link]|Some adult site from erotic to hard pornography.
 agressif|[Link]|Some aggressive sites.
