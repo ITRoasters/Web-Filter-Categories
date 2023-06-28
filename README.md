@@ -52,7 +52,7 @@ This repository offers 30 different web categories based on the data they are ho
 | arjel | [Link] | ARJEL which is a french certification authority for gambling sites |
 | associations_religieuses | [Link] | religious_association |
 | astrology | [Link] | Astrology |
-| audio-video | [Link]([url](https://raw.githubusercontent.com/ITRoasters/Web-Filter-Categories/main/Category%20Data/Audio-video.txt)) | Some audio and video sites. |
+| audio-video | [Link] (https://raw.githubusercontent.com/ITRoasters/Web-Filter-Categories/main/Category%20Data/Audio-video.txt) | Some audio and video sites. |
 | bank | [Link] | Online bank |
 | bitcoin | [Link] | Sites for bitcoin mining |
 | blog | [Link] | Some blogs sites. |
