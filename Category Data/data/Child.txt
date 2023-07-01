@@ -85,7 +85,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="7841:3268:11267F0:17DBB89:649FCBB3" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b31b42260109e49c0e9ca32753a7b0fd1333ca786411509c74da6897f406cf77" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI3ODQxOjMyNjg6MTEyNjdGMDoxN0RCQjg5OjY0OUZDQkIzIiwidmlzaXRvcl9pZCI6Ijg3MDM5NDA4NDk4MzgzMTIzNzEiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="026ea1c3cb852aa528dc97e0b7d49d8fbf15fccae3423b7f5c943d079aaf044d" data-pjax-transient="true"/>
+  <meta name="request-id" content="33C1:6A3F:136693B:1B2F9DC:649FCEB0" data-pjax-transient="true"/><meta name="html-safe-nonce" content="ddf0e75e55cff0d01a14aa3568e1ad81f7657093a1d1d3c6d86088aaf149d545" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzM0MxOjZBM0Y6MTM2NjkzQjoxQjJGOURDOjY0OUZDRUIwIiwidmlzaXRvcl9pZCI6IjgyMzgyOTE3MzEyNDA0Mzk0NzIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="e9d9a55743fb5c681df346b8ec5da32048fc5e9aeb8d4b4d827ee978c40899b0" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:99593368" data-turbo-transient>
@@ -597,7 +597,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="aUa7o9uoDE81rCA/eD2JRHIzk7zBqHfgY2Wp1jX1v0mZTibBIOs5ymOhBNIpCdbW5DGsdqYRfuZhuHK1zEBzrQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="mdquOJm9Nq5dB80eAtzspnwzDLKrCJbRSCzQl6tyUehwaN0hmtukCE3odICr3CLW6G1VK2klwZsr/Jf3H10jiA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1392,7 +1392,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/olbat/ut1-blacklists/edit/master/blacklists/child/domains" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lar0GIfltfNUFsYoWf2uWYX_v9RQ9GP463ElpRSPs4NlpgJCg34Ct7EV_u2OEW_hiDsSolBcgwBIwq8vBaaqxw" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/olbat/ut1-blacklists/edit/master/blacklists/child/domains" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2WSyWcrQXAxS2juYWQFb7awtE8LGNqUVH6-V10HCYDcb0e--WfS-b-Sn7-dqQbjCB9qTa_t3-HGDtgG_dKRbZA" autocomplete="off" />
       <button title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" disabled="disabled" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1402,7 +1402,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/olbat/ut1-blacklists/edit/master/blacklists/child/domains" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rDQg0w8C4KQOU4EJqb1ABf7dDdtfyfPROkaezzo4dkNcONaJC5lX4OtQucx-UYG98xmgrV9hEymZ9RRFKxFvBw" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/olbat/ut1-blacklists/edit/master/blacklists/child/domains" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7yt4TJegb8KMo9HdqTvcdV-tvArEtz3fhmxLid_o86ctniWrBISNoTreBaKaez9a9Fo8o_n2YLsadd_h6o7I9A" autocomplete="off" />
               <button title="You must be signed in to make or propose changes" type="submit" disabled="disabled" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
